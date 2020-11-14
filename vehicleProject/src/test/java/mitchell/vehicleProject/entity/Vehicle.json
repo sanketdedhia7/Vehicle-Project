@@ -1,0 +1,26 @@
+[
+  {
+  "id":1,
+  "year":2000,
+  "make": "honda",
+  "model": "civic"
+  },
+  {
+    "id":2,
+    "year":2001,
+    "make": "honda",
+    "model": "accord"
+  },
+  {
+    "id":3,
+    "year":2002,
+    "make": "BMW",
+    "model": "i8"
+  },
+  {
+    "id":4,
+    "year":2003,
+    "make": "Tesla",
+    "model": "model X"
+  }
+]

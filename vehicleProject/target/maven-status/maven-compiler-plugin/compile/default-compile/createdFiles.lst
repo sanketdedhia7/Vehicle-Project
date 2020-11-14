@@ -1,0 +1,7 @@
+mitchell\vehicleProject\exceptions\ExceptionAdvice.class
+mitchell\vehicleProject\exceptions\BadRequestException.class
+mitchell\vehicleProject\repository\VehicleRepository.class
+mitchell\vehicleProject\controller\VehicleController.class
+mitchell\vehicleProject\VehicleProjectApplication.class
+mitchell\vehicleProject\service\VehicleService.class
+mitchell\vehicleProject\entity\Vehicle.class
